@@ -18,5 +18,9 @@ public class Object {
         System.out.println(doggy.getNome() + "\n"
         + doggy.getRaca() + "\n"
         + doggy.getTamanho());
+
+        //como boa prática, vamos finalizar a entrada de dados atravez do Scanner:
+        entrada.close();
+
     }
 }
