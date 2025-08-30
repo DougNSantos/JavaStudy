@@ -35,6 +35,7 @@ public class Array {
         pets = new Dog[7];
 
         for( int i = 0; i < pets.length; i++ ){
+            //quer dizer que inicializamos a variaável de referencia, mas ela não contém nenhum objeto referenciado!!! Por isso vamos mandar criar objetos Dog() para cada variável de referência!!!
             pets[i] = new Dog();
 
             //aqui, nos será mostrado o endereço da memória para esses objetos, já que é o valor armazenado na variável de referencia de Dogs!!!
