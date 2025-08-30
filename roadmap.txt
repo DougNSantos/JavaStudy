@@ -1,0 +1,99 @@
+**Mini Guia de Estudo - Desenvolvedor Java rumo ao Full Stack**
+
+---
+
+# Fase 1: Fundamentos de Programação com Java (1º a 2º mês)
+
+**Objetivo:** Entender profundamente como a programação funciona.
+
+**Tópicos para dominar:**
+- Variáveis e Tipos de Dados
+- Operadores Aritméticos, Relacionais e Lógicos
+- Estruturas de Decisão (`if`, `else`, `switch`)
+- Estruturas de Repetição (`for`, `while`, `do-while`)
+- Vetores e Matrizes (Arrays)
+- Funções (métodos)
+- Introdução à Programação Orientada a Objetos (POO):
+  - Classes
+  - Objetos
+  - Atributos e Métodos
+  - Encapsulamento
+
+**Exercícios sugeridos:**
+- Calculadora simples
+- Verificador de maioridade
+- Simulador de caixa eletrônico
+- Controle de estoque simples
+
+**Dicas:**
+- Codifique todos os dias
+- Refaça exercícios mudando detalhes
+- Tente resolver sozinho antes de olhar solução pronta
+
+---
+
+# Fase 2: Pequenos Projetos com Java (2º a 3º mês)
+
+**Objetivo:** Aplicar o que aprendeu em projetos reais.
+
+**Projetos sugeridos:**
+- Cadastro de clientes
+- Agenda de contatos
+- Sistema de login simples
+
+**Boas práticas:**
+- Começar a usar Git e GitHub
+- Escrever códigos organizados e claros
+
+---
+
+# Fase 3: Expansão para Mobile Android e/ou Web Front-end (3º a 5º mês)
+
+**Escolha seu foco principal:**
+
+**Se Mobile Android:**
+- Android Studio
+- Layouts XML
+- Aplicativos simples: lista de tarefas, app de notas, etc.
+
+**Se Front-end Web:**
+- HTML5 + CSS3
+- JavaScript
+- Primeiros projetos web (sites estáticos e interativos)
+
+---
+
+# Cronograma de estudo sugerido (2h30–3h/dia)
+
+| Semana | Tema |
+|---|---|
+| 1-2 | Variáveis, Operadores, Decisões |
+| 3-4 | Laços de Repetição, Arrays |
+| 5-6 | Funções, Início de POO |
+| 7-8 | POO completo |
+| 9-12 | Pequenos projetos práticos |
+| 13-20 | Escolher Mobile Android ou Front-end Web |
+
+---
+
+# Dicas de Ouro:
+- Estude como se fosse ensinar
+- Codifique mesmo em dias corridos
+- Monte um portfólio no GitHub
+- Só comece outra linguagem após dominar bem a primeira
+
+---
+
+# Resumo de Linguagens para o futuro Full Stack
+
+| Área | Linguagens/Ferramentas |
+|---|---|
+| Mobile Apps | Java → Kotlin (depois) → Dart (Flutter) |
+| Front-end Web | HTML, CSS, JavaScript, TypeScript, React |
+| Back-end Web | Java (Spring Boot) ou Node.js |
+| Banco de Dados | SQL (MySQL, PostgreSQL) |
+
+---
+
+**Bons estudos! Seu futuro de Dev está sendo construído hoje!** 🚀
+
