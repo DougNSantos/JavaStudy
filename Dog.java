@@ -4,9 +4,12 @@ public class Dog {
     int tamanho;
 
     public void Latir(){
-        System.out.println("WoooF WoooF");
+        System.out.println(this.nome + " = WoooF WoooF");
     }
 
+    //aqui já estamos usando encapsulamento para atribuir valores
+    //Mas não declaramos as variáveis de instância com private, então ainda assim...
+    //conseguimos atribuir sem encapsulamento!
     public void setNome(String nome){
         this.nome = nome;
     }
