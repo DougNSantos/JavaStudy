@@ -24,6 +24,8 @@ public class DogBark {
     }
 
     int Ossos(){
+        //Se a classe estiver no mesmo pacote ou se pudermos importá-la, podemos usar em nossos métodos dentro de nossas outras classes além da classe main()!!!
+        Dog one = new Dog();
         return 10;
     }
 }
