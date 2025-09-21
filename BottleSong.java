@@ -4,9 +4,9 @@ public class BottleSong {
         String word = "garrafas";
 
         while ( bot > 0 ){
-            if ( bot == 1 ){
-                word = "garrafa";
-            }
+            //if ( bot == 1 ){
+                //word = "garrafa";
+            //}
             System.out.println("Há " + bot + " " + word + " verde em cima do murro");
             System.out.println("Há " + bot + " " + word + " verde em cima do murro");
             System.out.println("E se uma delas cair?");
