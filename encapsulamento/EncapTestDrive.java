@@ -43,6 +43,8 @@ public class EncapTestDrive {
         arrayEncapsulado[1] = new ClasseEncapsulada();
         System.out.println(arrayEncapsulado[1].getName());
 
+        test.getName();
+
     }
 
 }
