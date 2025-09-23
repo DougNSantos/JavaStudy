@@ -19,6 +19,7 @@ public class StartSimpleNavalBattle {
 
         //cria os inteiros para o campo..
         //randomico de 0 a 7, e adiciona mais um para cada outro valor do campo
+        //obs: o nextInt() aqui, é inclusivo no primeiro numero e exclusivo no segundo valor, então teremos um resultado de 0 a 5 aqui
         int numRng1 = rng.nextInt(6);
         int numRng2 = numRng1 + 1;
         int numRng3 = numRng2 + 1;
