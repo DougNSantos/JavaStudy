@@ -48,6 +48,9 @@ public class StartSimpleNavalBattle {
             if(resultado.equals("destruido")){
                 isAlive = false;
                 System.out.println("Numero de tentativas: " + numOfGuesses);
+
+                //enceramos o recurso do scanner aqui!
+                entrada.close();
             }
         }
     }    
