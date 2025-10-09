@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 public class Startup {
 
+    private String name;
     private ArrayList<String> posicoes;    
 
     public void configPosicoes(ArrayList<String> pos){
@@ -24,5 +25,9 @@ public class Startup {
             }
         }
         return resultado;
+    }
+
+    public void setName(String name){
+        this.name = name;
     }
 }
