@@ -47,6 +47,17 @@ public class Test {
            myAnimal.roam();
        }
 
+       //USANDO MÉTODOS COM SOBRECARGA:
+       //OBS: Pra usar métodos com retorno, esse retorno irá ser armazenado a uma variável, então devemos passar esses métodos...
+       //para uma variável!!!
+
+       int soma;
+       soma = SobrecargaMetodos.somar(5,10);
+       System.out.println(soma);
+
+       double somaDouble;
+       somaDouble = SobrecargaMetodos.somar(15.5, 10.7);
+       System.out.println(somaDouble);
     }
 
 }
